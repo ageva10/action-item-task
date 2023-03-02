@@ -1,6 +1,5 @@
 # Action Item Task
 
 ```
-npm i
-yarn dev
+npm i && yarn dev
 ```
