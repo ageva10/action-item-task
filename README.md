@@ -1,1 +1,5 @@
-# action-item-task
+# Action Item Task
+
+```
+npm i
+```
