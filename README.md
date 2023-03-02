@@ -2,4 +2,5 @@
 
 ```
 npm i
+yarn dev
 ```
